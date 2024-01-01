@@ -1,6 +1,6 @@
 # Aplikasi Klinik
 
-Aplikasi Klinik ini dikembangkan untuk keperluan Materi Perkuliahan Web || di Kampus UNAMA | Universitas Dinamika Bangsa. Aplikasi ini memiliki 3 role:
+Aplikasi Klinik ini dikembangkan untuk keperluan UAS Perkuliahan Web pramework || di Kampus STMIK-LOMBOK | STILO. Aplikasi ini memiliki 3 role:
 
 1. **admin**
     - Bisa mengakses semua fitur
@@ -15,7 +15,7 @@ Aplikasi Klinik ini dikembangkan untuk keperluan Materi Perkuliahan Web || di Ka
 1. **Clone atau Download Repository:**
 
     ```bash
-    git clone https://github.com/a3m-nix/klinik-app.git
+    https://github.com/Zhyy-Dinda/UAS-Klink-ku.git
     ```
 
 2. **Buka Project dengan VSCode lalu Rename File `.env.example` menjadi `.env` (jika dilinux):**
